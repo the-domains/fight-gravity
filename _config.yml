@@ -1,0 +1,28 @@
+name: Fight gravity
+favicon: null
+layout_spectrum: 0.7975066856015474
+typography_spectrum: 0.8326497829984874
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.08233964303508401
+  lightness: 0.7656717877835035
+  saturation: 0.12505460786633193
+  rhythmicContrast: 0.17497248691506684
+purpose: []
